@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+  transition: all 0.3s;
+  background: purple;
+}
+h1:hover {
+  color: red;
+  transform: translateX(50px);
+}
+/*# sourceMappingURL=main.css.map */
